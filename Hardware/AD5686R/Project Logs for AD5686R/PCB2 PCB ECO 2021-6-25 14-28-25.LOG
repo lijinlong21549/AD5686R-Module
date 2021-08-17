@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=5V Pin=R3-1
+Added Pin To Net: NetName=VDD Pin=R3-1
+Added Member To Class: ClassName=AD5686R Member=Component C6 100nF/16V
+Added Member To Class: ClassName=AD5686R Member=Component C7 100pF/16V
+Added Member To Class: ClassName=AD5686R Member=Component C8 100nF/16V
+Added Member To Class: ClassName=AD5686R Member=Component C9 100pF/16V
+Added Member To Class: ClassName=AD5686R Member=Component C10 100nF/16V
+Added Member To Class: ClassName=AD5686R Member=Component C11 100pF/16V
+Added Member To Class: ClassName=AD5686R Member=Component C12 200pF/50V
+Added Member To Class: ClassName=AD5686R Member=Component C15 200pF/50V
+Added Member To Class: ClassName=AD5686R Member=Component JP2 HDR-1X14
+Added Member To Class: ClassName=AD5686R Member=Component U3 AD5686R

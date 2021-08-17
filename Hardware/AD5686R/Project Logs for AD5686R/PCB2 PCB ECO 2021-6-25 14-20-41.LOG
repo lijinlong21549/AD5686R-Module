@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=VIN Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=VIN Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=VIN Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=VREF Pin=JP2-2
+Removed Pin From Net: NetName=VREF Pin=JP2-4
+Removed Pin From Net: NetName=VREF Pin=JP2-6
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=VIN Pin=U3-3
+Removed Pin From Net: NetName=VIN Pin=U3-4
+Removed Member From Class: ClassName=POW Member=C6
+Removed Member From Class: ClassName=POW Member=C7
+Removed Member From Class: ClassName=POW Member=C8
+Removed Member From Class: ClassName=POW Member=C9
+Removed Member From Class: ClassName=POW Member=C10
+Removed Member From Class: ClassName=POW Member=C11
+Removed Member From Class: ClassName=POW Member=C12
+Removed Member From Class: ClassName=POW Member=JP2
+Removed Member From Class: ClassName=POW Member=U3
+Change Component Designator: OldDesignator=C13 NewDesignator=C6
+Change Component Designator: OldDesignator=C14 NewDesignator=C7
+Change Component Designator: OldDesignator=C15 NewDesignator=C8
+Change Component Designator: OldDesignator=C16 NewDesignator=C9
+Change Component Designator: OldDesignator=C17 NewDesignator=C10
+Change Component Designator: OldDesignator=C18 NewDesignator=C11
+Change Component Designator: OldDesignator=C19 NewDesignator=C12
+Change Component Designator: OldDesignator=C20 NewDesignator=C13
+Change Component Designator: OldDesignator=C21 NewDesignator=C14
+Change Component Designator: OldDesignator=C22 NewDesignator=C15
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP2
+Change Component Designator: OldDesignator=U4 NewDesignator=U3

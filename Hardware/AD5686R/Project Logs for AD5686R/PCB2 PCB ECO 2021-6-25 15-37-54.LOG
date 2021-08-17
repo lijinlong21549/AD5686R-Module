@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=RSTSEL Pin=JP2-5
+Added Pin To Net: NetName=RESET Pin=JP2-6
+Added Pin To Net: NetName=EN Pin=JP2-7
+Added Pin To Net: NetName=MISO Pin=JP2-8
+Added Pin To Net: NetName=MOSI Pin=JP2-9
+Added Pin To Net: NetName=SCLK Pin=JP2-10
+Added Pin To Net: NetName=GAIN Pin=JP2-11
+Added Pin To Net: NetName=LDAC Pin=JP2-12
+Added Pin To Net: NetName=VIO Pin=JP2-13

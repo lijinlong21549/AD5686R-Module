@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=VIN Pin=JP2-1
+Added Pin To Net: NetName=3V3 Pin=JP2-2
+Added Pin To Net: NetName=5V Pin=JP2-3
+Added Pin To Net: NetName=VREF Pin=JP2-4
+Added Pin To Net: NetName=GND Pin=JP2-14
